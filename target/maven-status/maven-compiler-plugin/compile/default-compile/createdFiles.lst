@@ -1,0 +1,11 @@
+com\agri\controller\DashboardController.class
+com\agri\service\TelemetryService.class
+com\agri\repository\ProductRepository.class
+com\agri\model\TelemetryLog.class
+com\agri\SmartCropApplication.class
+com\agri\model\Product.class
+com\agri\model\PurchaseOrder.class
+com\agri\repository\ContactRepository.class
+com\agri\model\Contact.class
+com\agri\repository\PurchaseOrderRepository.class
+com\agri\repository\TelemetryLogRepository.class

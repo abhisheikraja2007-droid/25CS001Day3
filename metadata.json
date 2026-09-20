@@ -1,0 +1,6 @@
+{
+  "name": "AgroPulse ERP",
+  "description": "Precision IoT & Agri-Ledger ERP platform combining automated irrigation telemetry, real-time farm service billing, procurement, and double-entry general ledger reconciliation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
